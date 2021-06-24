@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "4hLb8Q/FGO43e+00HFpTw2lnl1Z36jT0VtB3P2owhDgx2fwHXclgd4WYGCG5T7Xbi4fR7wRjE5QV9GUYNzoxlg==",
+  "success": true,
+  "projectFilePath": "/home/allan-mecanico/Documentos/API-REST/CarterAPI/CarterAPI.csproj",
+  "expectedPackageFiles": [
+    "/home/allan-mecanico/.nuget/packages/carter/5.2.0/carter.5.2.0.nupkg.sha512",
+    "/home/allan-mecanico/.nuget/packages/fluentvalidation/9.0.1/fluentvalidation.9.0.1.nupkg.sha512",
+    "/home/allan-mecanico/.nuget/packages/microsoft.extensions.dependencymodel/3.1.0/microsoft.extensions.dependencymodel.3.1.0.nupkg.sha512",
+    "/home/allan-mecanico/.nuget/packages/microsoft.openapi/1.1.4/microsoft.openapi.1.1.4.nupkg.sha512",
+    "/home/allan-mecanico/.nuget/packages/newtonsoft.json/12.0.3/newtonsoft.json.12.0.3.nupkg.sha512",
+    "/home/allan-mecanico/.nuget/packages/system.text.json/4.7.0/system.text.json.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}
